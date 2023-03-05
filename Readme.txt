@@ -18,6 +18,10 @@ Subroza is a Rainmeter theme with a concept of Minimal desktop look for clean ri
 An in-built settings option is provided for changing the color scheme of the theme according to the user choice.
 ############################################################################
 
+Enivironment:
+############################################################################
+
+
 Requirements:
 ############################################################################
 1. Windows 10 Version.1904 or higher
