@@ -1,7 +1,8 @@
 Subroza
 
-Author: Evil Angel
 Version: 2.4.1
+
+Author: Evil Angel
 
 License: Creative Commons Attribution - Non - Commercial - Share Alike 3.0
 
