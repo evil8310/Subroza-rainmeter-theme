@@ -24,12 +24,12 @@ Requirements:
 Installation:
 (Note: Rainmeter must be installed in the computer to use the theme pack)
 
-1.Download the pack from here https://github.com/evil8310/Subroza-rainmeter-theme/tree/main/Subroza_pack
+1.Download the pack from here https://github.com/evil8310/Subroza-rainmeter-theme/blob/main/Subroza_pack.zip
 
 2.Extract the pack
 (Make sure Rainmeter is running in the computer)
 
-3.Double click on Subroza_2.4.1 theme pack
+3.Double click on Subroza_2.4.1.rmskin theme pack
 
 4.Then press Install
 
