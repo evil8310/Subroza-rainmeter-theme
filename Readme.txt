@@ -38,6 +38,8 @@ Installation:
 3.Double click on Subroza_2.4.1 theme pack
 4.Then press Install
 5.Theme will be imported in Rainmeter
+6.Now adjust the adjust the placements of the meters according to the desire
+
 
 (Note: 1. To open settings of the theme double click on the clock's middle divider bar or double click on the Audio Visualizer.
        2. Audio Visualizer won't respond until you are playing any audio or music. To check try playing any music of do system sound test to view the position default position
